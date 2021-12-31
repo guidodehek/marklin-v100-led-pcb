@@ -5,7 +5,7 @@
   (paper "A5")
 
   (title_block
-    (title "LED PCB for Märklin V100 (art. no. 3072).")
+    (title "LED front PCB for Märklin V100 (art. no. 3072).")
     (date "2021-12-30")
     (rev "0.1")
     (comment 1 "Guido de Hek")
@@ -339,7 +339,7 @@
     (property "Value" "LED" (id 1) (at 105.41 82.8674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 101.6 80.01 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 101.6 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 80.01 0)
@@ -358,7 +358,7 @@
     (property "Value" "LED" (id 1) (at 130.81 70.1674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 127 67.31 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 127 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127 67.31 0)
@@ -377,7 +377,7 @@
     (property "Value" "LED" (id 1) (at 105.41 70.1674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 101.6 67.31 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 101.6 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 67.31 0)
@@ -396,7 +396,7 @@
     (property "Value" "LED" (id 1) (at 105.41 57.4674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 101.6 54.61 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 101.6 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 54.61 0)
@@ -434,7 +434,7 @@
     (property "Value" "LED" (id 1) (at 130.81 57.4674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 127 54.61 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 127 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127 54.61 0)
@@ -450,19 +450,19 @@
 
   (symbol_instances
     (path "/48ab88d7-7084-4d02-b109-3ad55a30bb11"
-      (reference "D11") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D11") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/3648d3c3-5400-457c-89fe-064ddcd81a54"
-      (reference "D12") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D12") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/21c5ca45-d574-4174-9629-f1fa8964149f"
-      (reference "D13") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D13") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/dd5e715f-b254-406b-b948-900d8781a20f"
-      (reference "D21") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D21") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/300b89c7-8f75-4f52-826c-da0b91b79d41"
-      (reference "D22") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D22") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/0f560957-a8c5-442f-b20c-c2d88613742c"
       (reference "J1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
