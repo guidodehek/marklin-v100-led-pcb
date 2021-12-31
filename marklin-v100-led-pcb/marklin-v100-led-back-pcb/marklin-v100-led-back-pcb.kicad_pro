@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "marklin-v100-led-pcb.kicad_pro",
+    "filename": "marklin-v100-led-back-pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
